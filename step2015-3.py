@@ -1,8 +1,6 @@
 #coding: utf-8
 import datetime
 
-CHUNK_SIZE  = 1024
-
 def main():
     cat_dict = {}
     f = open('cat_links.txt')
